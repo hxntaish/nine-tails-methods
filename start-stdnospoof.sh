@@ -1,0 +1,1 @@
+screen -dmS attack ./STD-NOSPOOF $1 $2
